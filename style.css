@@ -26,6 +26,7 @@ input {
     margin: 1rem auto 1rem auto;
     display: block;
     text-align: center;
+    font-weight: bold;
 
 }
 input{
@@ -37,7 +38,7 @@ input{
     border-color: var(var(--blue-gray));
     border-radius: 1rem;
     margin-bottom: 2rem;
-    background-color: var(--true-gray);
+    /* background-color: var(--true-gray); */
 
 }
 
@@ -51,7 +52,8 @@ input{
     background-color: inherit;
     border-color: var(--blue-gray);
     border-radius: 1rem;
-    color: var(--true-gray)
+    color: var(--true-gray);
+    font-weight: bold;
     
 }
 
